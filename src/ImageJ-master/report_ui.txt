@@ -1,0 +1,13 @@
+未汉化的 UI 字符串：5 条，涉及 4 个文件
+== ij/gui/GenericDialog.java  (1)
+    1132   GenericDialog标题        YesNoCancel Demo
+
+== ij/gui/RoiProperties.java  (1)
+    109    addMessage             wwwwwwwwwwww
+
+== ij/plugin/SimpleCommands.java  (1)
+    145    GenericDialog标题        Set Slice Label (
+
+== ij/plugin/frame/RoiManager.java  (2)
+    137    addButton              Add [t]
+    144    addButton              Flatten [F]

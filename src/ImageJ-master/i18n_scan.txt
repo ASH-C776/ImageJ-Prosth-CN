@@ -1,0 +1,70 @@
+未在词典中的 UI 字符串：26 条，涉及 21 个文件
+
+== ij/plugin/frame/Recorder.java  (5)
+    904  setText            Macro.ijm
+    906  setText            Script.js
+    908  setText            Script.bsh
+    910  setText            Script.py
+    912  setText            My_Plugin.java
+
+== ij/gui/PlotDialog.java  (2)
+    237  addMessage         Enter Labels for the datasets, one per line.\n
+    400  addMessage         Labels support !!sub-!! and ^^superscript^^
+
+== ij/io/FileOpener.java  (1)
+    493  addMessage         The calibration of this image conflicts\nwith the current global calibration.
+
+== ij/plugin/AVI_Reader.java  (1)
+    529  addMessage         * Leave empty or set to 0 for reading to the end.\n   Also accepts e.g. -5 to skip last 5 frames.
+
+== ij/plugin/Hotkeys.java  (1)
+     98  addMessage         Shortcuts are not removed\nuntil ImageJ is restarted.
+
+== ij/plugin/ListVirtualStack.java  (1)
+     74  addMessage         This 
+
+== ij/plugin/Options.java  (1)
+     99  addMessage         Sets the default line selection width.\nPress 'y' (Edit>Selection>Properties)\nto change the width of the current\nline selection.
+
+== ij/plugin/Profiler.java  (1)
+     53  addMessage         ---------- Plot Defaults ---------
+
+== ij/plugin/RoiEnlarger.java  (1)
+     80  addMessage          \n 
+
+== ij/plugin/RoiRotator.java  (1)
+     53  addMessage         Enter negative angle to \nrotate counter-clockwise
+
+== ij/plugin/SubHyperstackMaker.java  (1)
+     38  addMessage         Enter a range (e.g. 2-14), a range with increment\n
+
+== ij/plugin/SubstackMaker.java  (1)
+    155  addMessage         Enter a range (e.g. 2-14), a range with increment\n(e.g. 1-100-2) or a list (e.g. 7,9,25,27)
+
+== ij/plugin/WandToolOptions.java  (1)
+     43  addMessage         Thresholded objects are traced and "Tolerance"\nis ignored when thresholding is enabled.
+
+== ij/plugin/filter/Calibrator.java  (1)
+     99  addMessage         Left column contains uncalibrated measured values,\n right column contains known values (e.g., OD).
+
+== ij/plugin/filter/Convolver.java  (1)
+     78  addMessage          \nKernel:
+
+== ij/plugin/filter/ImageMath.java  (1)
+    416  addMessage         v=pixel value, x,y&z=pixel coordinates, w=image width,\nh=image height, a=angle, d=distance from center\n
+
+== ij/plugin/filter/ScaleDialog.java  (1)
+    186  setText            0.00
+
+== ij/plugin/frame/ContrastAdjuster.java  (1)
+    971  addMessage         Propagation of RGB images not supported. As a work-around,\nconvert images to multi-channel composite color.
+
+== ij/plugin/frame/Editor.java  (1)
+   1244  addMessage         Enter mode that supports interactive\nediting and running of macros and scripts?
+
+== ij/plugin/tool/OverlayBrushTool.java  (1)
+    209  addMessage         SHIFT for horizontal or vertical lines\n
+
+== ij/plugin/tool/PixelInspectionTool.java  (1)
+    517  addMessage         Use arrow keys to move red outline.\nPress 'c' to copy data to clipboard.
+

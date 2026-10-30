@@ -1,0 +1,305 @@
+(use 1 pixel spacing)|（使用 1 像素间距）
+* Leave empty for automatic range|* 留空则自动确定范围
+* Leave empty or set to 0 for reading to the end.|* 留空或设为 0 表示读到末尾。
+Also accepts e.g. -5 to skip last 5 frames.|也支持 -5 之类，表示跳过最后 5 帧。
+** Requires limits > 0 and max/min > 3|** 需限制值 > 0 且 最大/最小 > 3
+------- Profile Plot Options -------|------- 剖面图选项 -------
+---------- Plot Defaults ----------|---------- 绘图默认值 ----------
+16-bit histogram|16 位直方图
+16-bit range:|16 位范围：
+"Overlay>Add" requires a selection.|“叠加>添加”需要先建立选区。
+"Show All" Color...|“显示全部”颜色…
+Abort Macro|中止宏
+Add code:|添加代码：
+Add macro code:|添加宏代码：
+Add to ROI Manager|添加到 ROI 管理器
+Add to overlay|添加到叠加层
+Adjust interval to match|调整间隔以匹配
+Algorithm:|算法：
+All time points|全部时间点
+All open windows|所有打开的窗口
+and range:|与范围：
+Angle (-90-90 degrees):|角度（-90~90 度）：
+Append results|追加结果
+Apply changes to all|将更改应用到全部
+Apply LUTs|应用查找表
+Are you sure you want to quit ImageJ?|确定要退出 ImageJ 吗？
+Area per point:|每点面积：
+Assign to Repeat Cmd|指定为重复命令
+Associate "Show All" ROIs with slices|将“显示全部”的 ROI 关联到切片
+Auto-close|自动关闭
+Auto-measure|自动测量
+Auto-next slice|自动切到下一片
+Automatic binning|自动分箱
+Autoscale after filtering|滤波后自动缩放
+Avoid interpolation|避免插值
+Axis of rotation:|旋转轴：
+Back:|背面：
+Background value:|背景值：
+Background:|背景：
+Band Size:|条带大小：
+below:|以下：
+Bicubic interpolation|双三次插值
+Bin Method:|分箱方式：
+Bins:|箱数：
+Bkgd:|背景：
+Black background|黑色背景
+Black background (of binary masks)|黑色背景（二值掩膜）
+Black foreground, white background|黑前景、白背景
+Blue:|蓝色：
+Border width:|边框宽度：
+Bottom-to-top|由下到上
+Bottom:|底部：
+Box Sizes:|框尺寸：
+Brush width:|笔刷宽度：
+C1 (red):|C1（红）：
+C2 (green):|C2（绿）：
+C3 (blue):|C3（蓝）：
+C4 (gray):|C4（灰）：
+C5 (cyan):|C5（青）：
+C6 (magenta):|C6（品红）：
+C7 (yellow):|C7（黄）：
+Calculate threshold for each image|为每幅图像单独计算阈值
+Center grid on image|网格在图像中居中
+Center on page|页面居中
+Channel|通道
+Channel:|通道：
+Channels (|通道（
+Channels c:|通道 c：
+Click to Remove Scale|点击移除比例尺
+Close window after running command|运行命令后关闭窗口
+Code:|代码：
+Color predefined if group>0|分组大于 0 时使用预定义颜色
+Color space:|色彩空间：
+Color:|颜色：
+Column:|列：
+Columns:|列数：
+Combine vertically|垂直拼接
+Combined Stacks|合并堆栈
+Command Finder|命令查找器
+Command:|命令：
+Complex Fourier Transform|复数傅里叶变换
+Compression:|压缩：
+Constrain square/circle|约束为正方形/正圆
+Convert RGB to 3 Channel Hyperstack|将 RGB 转为三通道超堆栈
+Convert to Grayscale|转为灰度
+Convert to multichannel composite image?|转为多通道合成图像？
+Copy  Ctrl+C|复制  Ctrl+C
+Copy From Template:|从模板复制：
+Copy to clipboard:|复制到剪贴板：
+Copy to Image Info|复制到图像信息
+Copy column headers|复制列标题
+Copy row numbers|复制行号
+Corner diameter:|圆角直径：
+Count (1-8):|数量（1-8）：
+Count:|计数：
+Counter:|计数器：
+Create composite|创建合成图
+Create image with:|创建图像使用：
+Create new stack|创建新堆栈
+Create RGB image with:|创建 RGB 图像使用：
+Current overlay has|当前叠加层包含
+Current overlay is hidden|当前叠加层已隐藏
+Cut  Ctrl+X|剪切  Ctrl+X
+Dark background|深色背景
+Debug Macro|调试宏
+Debug mode|调试模式
+Debug Mode:|调试模式：
+Decimal places:|小数位数：
+Delay (seconds):|延迟（秒）：
+Delete current|删除当前
+Delete slices from original stack|从原堆栈删除切片
+Destination:|目标：
+Detab...|转空格…
+Disable anti-aliased text|禁用文字抗锯齿
+Disable Global Calibration|禁用全局校准
+Disable these Messages|禁用这些提示
+Display filter|显示滤波器
+Display Mode:|显示模式：
+Display mode:|显示模式：
+Display:|显示：
+Distance in pixels:|距离（像素）：
+Divide by zero value:|除零替代值：
+Do forward transform|执行正变换
+Do inverse transform|执行逆变换
+Do:|处理：
+Do not create substack|不创建子堆栈
+Don't reset range|不重置范围
+Don't Save|不保存
+Don't set Mac menu bar|不设置 Mac 菜单栏
+Double head|双头
+Draw backgrounds|绘制背景
+Draw border|绘制边框
+Draw grid lines|绘制网格线
+EDM output:|EDM 输出：
+Elliptical selections|椭圆选区
+Enable selection brush|启用选区笔刷
+Enable Thresholding|启用阈值
+Enabling|启用
+enclose regex in parens|用括号包裹正则
+Enhanced line tool|增强直线工具
+Enlarge by|放大倍数
+Enlarge image|放大图像
+Enter Interactive Mode|进入交互模式
+Enter Labels for the datasets, one per line.|输入数据集标签，每行一个。
+Enter mode that supports interactive|进入支持宏与脚本交互编辑、运行的模式？
+editing and running of macros and scripts?|（可交互编辑并运行宏与脚本）
+Enter a range (e.g. 2-14), a range with increment|输入范围（如 2-14）、带增量的范围
+(e.g. 1-100-2) or a list (e.g. 7,9,25,27)|（如 1-100-2）或列表（如 7,9,25,27）
+Enter negative angle to |输入负角度可
+rotate counter-clockwise|逆时针旋转
+Enter negative number to shrink|输入负数表示缩小
+Enter URL of an image, macro or web page|输入图像、宏或网页的网址
+Error tolerance [1*10^(-x)]:|误差容限 [1*10^(-x)]：
+Evaluate BeanShell|执行 BeanShell
+Evaluate JavaScript|执行 JavaScript
+Evaluate Line|执行当前行
+Evaluate Macro|执行宏
+Evaluate Python|执行 Python
+Fast Hartley Transform|快速 Hartley 变换
+Fast Trace|快速跟踪
+FFT ("FFT of...") window|FFT（“FFT of...”）窗口
+File extension for tables (.csv, .tsv or .txt):|表格文件扩展名（.csv、.tsv 或 .txt）：
+File name contains:|文件名包含：
+Fill color:|填充颜色：
+Fill Plot Background with Black|用黑色填充绘图背景
+Fill with:|填充使用：
+Filter:|滤波器：
+Filter large structures down to|滤除大结构下限
+Filter small structures up to|保留小结构上限
+Find Next|查找下一个
+Find...|查找…
+Find:|查找：
+First Frame:|首帧：
+First slice:|首片：
+Fit|拟合
+Fit Data Set:|拟合数据集：
+Fit Function:|拟合函数：
+Fit:|拟合：
+Fix X Range While Live|实时显示时固定 X 范围
+Fix Y Range While Live|实时显示时固定 Y 范围
+Fixed y-axis scale|固定 Y 轴刻度
+Fixed Z slope and intercept|固定 Z 斜率与截距
+Flip Vertical|垂直翻转
+Flip XZ|XZ 翻转
+Font Size|字号
+Font size:|字号：
+Font:|字体：
+Foreground:|前景：
+Format:|格式：
+Formula:|公式：
+Frame interval:|帧间隔：
+Frame Rate:|帧率：
+Frame:|帧：
+Frames (|帧数（
+Frames t:|帧 t：
+Freehand Line|手绘线
+Front:|正面：
+Full range 16-bit inversions|全范围 16 位反转
+Function Finder...|函数查找器…
+Function name:|函数名：
+Function:|函数：
+Gap between images:|图像间距：
+Generate debugging info (javac -g)|生成调试信息（javac -g）
+GIF and PNG transparent index:|GIF 与 PNG 透明索引：
+Global calibration|全局校准
+Go to line number:|跳转到行号：
+Go to Line...|转到行…
+Grayscale readout:|灰度读数：
+Green:|绿色：
+Grid lines:|网格线：
+Grid type:|网格类型：
+Group size:|组大小：
+Group:|分组：
+Hide "Process Stack?" dialog|隐藏“处理堆栈？”对话框
+Horizontal scale factor:|水平缩放系数：
+Ignore rescale slope|忽略重标定斜率
+Ignore source LUTs|忽略源查找表
+Image coordinates|图像坐标
+Image scaling|图像缩放
+Image to add:|要添加的图像：
+Image type:|图像类型：
+Image:|图像：
+Image 1 (reference):|图像 1（参考）：
+Image 2:|图像 2：
+Increment:|增量：
+Initial angle (0-359 degrees):|初始角度（0-359 度）：
+Input...|输入…
+Install Macros|安装宏
+Interior depth-cueing (0-100%):|内部深度提示（0-100%）：
+Interpolation:|插值：
+Interval:|间隔：
+Invert peaks|反转峰
+Invert y coordinates off (0 at top of image)|关闭 Y 轴取反（图像顶部为 0）
+Item to Add:|要添加的项：
+Item:|项目：
+Iterations (1-|迭代次数（1-
+JPEG quality (0-100):|JPEG 质量（0-100）：
+Just:|对齐：
+Justification:|对齐方式：
+Keep after adding to overlay|添加到叠加层后保留
+Keep multiple undo buffers|保留多级撤销缓冲
+Known distance:|已知距离：
+Label color:|标签颜色：
+Label Font Size|标签字号
+Label images|标记图像
+Label points|标记点数
+Label slices|标记切片
+Label supports !!sub-!! and ^^superscript^^|标签支持 !!下标!! 与 ^^上标^^
+Label with percentages|显示百分比标签
+Label:|标签：
+Lane Orientation:|泳道方向：
+Last Frame:|末帧：
+Last slice:|末片：
+Left column contains uncalibrated measured values,|左列为未校准的实测值，
+right column contains known values (e.g., OD).|右列为已知值（如 OD）。
+Left:|左侧：
+Legend position|图例位置
+Line Width:|线宽：
+Line width:|线宽：
+List|列表
+List coordinates (|列出坐标（
+List properties (|列出属性（
+List thresholds|列出阈值
+List values|列出数值
+List...|列出…
+Little-endian byte order|小端字节序
+Location:|位置：
+Log scale|对数刻度
+Log X Axis|对数 X 轴
+Log Y Axis|对数 Y 轴
+Loop Back and Forth|往返循环
+Lower threshold level:|阈值下限：
+Lower transparency bound:|透明度下界：
+Make Text Larger|放大文字
+Make Text Smaller|缩小文字
+Maximum displayed value:|最大显示值：
+Maximum iterations:|最大迭代次数：
+Maximum memory:|最大内存：
+Maximum Y:|最大 Y：
+Measure all|测量全部
+Measure reflex angle|测量反角
+Menu Bar|菜单栏
+Menu font size:|菜单字号：
+Method:|方法：
+Minimum displayed value:|最小显示值：
+Minimum Y:|最小 Y：
+Modern mode|现代模式
+Monospaced Font|等宽字体
+Move isolated plugins to Misc. menu|将孤立插件移到“杂项”菜单
+Multi-point Tool|多点工具
+Name:|名称：
+New channel order:|新通道顺序：
+New overlay|新叠加层
+No overlay|无叠加层
+No properties|无属性
+No windows to select.|没有可选择的窗口。
+Non-blocking filter dialogs|非阻塞式滤波对话框
+Normalize Kernel|归一化核
+Note: c*z*t must equal|注意：c*z*t 必须等于
+Number Font Size|数字字号
+Number of Colors (2-256):|颜色数（2-256）：
+Number of Colors:|颜色数：
+Number of images:|图像数：
+Number of labels:|标签数：
+Number of restarts:|重启次数：

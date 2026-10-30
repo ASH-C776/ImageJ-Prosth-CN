@@ -1,0 +1,254 @@
+Offset to first image:|首幅图像偏移：
+One Polygon Per Line|每行一个多边形
+One row per slice|每片一行
+Only convert current image|仅转换当前图像
+Open all files in folder|打开文件夹内全部文件
+Open as 32-bit float|以 32 位浮点打开
+Open as 4D image|以 4D 图像打开
+Open as separate images|以独立图像打开
+Operation:|运算：
+or specify bins:|或指定箱数：
+or use:|或使用：
+Or, use system proxy settings|或使用系统代理设置
+Order:|顺序：
+Orientation:|方向：
+Origin (pixels):|原点（像素）：
+Output Size:|输出尺寸：
+Output size:|输出大小：
+Output spacing (|输出间距（
+Output type:|输出类型：
+Output...|输出…
+Output format:|输出格式：
+Oval selections|椭圆选区
+Overlay only|仅叠加层
+Pad edges when eroding|腐蚀时补边
+Paint on overlay|绘制到叠加层
+Parallel threads:|并行线程数：
+Parameter:|参数：
+Paste  Ctrl+V|粘贴  Ctrl+V
+Pixel aspect ratio:|像素宽高比：
+Pixel height:|像素高度：
+Pixel width:|像素宽度：
+Plot Width (pixels):|绘图宽度（像素）：
+Plot...|绘图…
+Point type:|点型：
+Polygon Multiplier (10-200%):|多边形倍数（10-200%）：
+Port:|端口：
+Position:|位置：
+Prefs…|首选项…
+Print title|打印标题
+Print actual size|按实际尺寸打印
+Process all|处理全部
+Projection method:|投影方式：
+Projection type|投影类型
+Projections of|投影对象：
+Propagation of RGB images not supported. As a work-around,|不支持 RGB 图像传播。替代做法是
+convert images to multi-channel composite color.|将图像转为多通道合成彩色。
+Proxy server:|代理服务器：
+Random offset|随机偏移
+Range:|范围：
+Raw power spectrum|原始功率谱
+Raw values|原始值
+Read images using Bio-Formats|使用 Bio-Formats 读取图像
+Record:|录制：
+Red:|红色：
+Reduce in Z-Dimension|在 Z 方向降采样
+Reduction Factor:|降采样系数：
+Remaining pixels to background color|其余像素填充为背景色
+Remove all|全部移除
+Remove existing overlay|移除已有叠加层
+Remove positions for:|移除位置：
+Rename As:|另存为名称：
+Require|需要
+Reset:|重置：
+Restore ROIs centered|居中恢复 ROI
+Result:|结果：
+Results Table Options|结果表选项
+Reuse "FFT of..." window|复用“FFT of...”窗口
+Reverse CZT order of ">" and "<"|反转 CZT 中“>”与“<”的顺序
+RGB readout:|RGB 读数：
+Right:|右侧：
+Rolling ball radius:|滚球半径：
+Rotate 90|旋转 90°
+Rotate 90 degrees|旋转 90 度
+Rotate YZ|YZ 旋转
+Rotated Rectangle|旋转矩形
+Rotation angle increment:|旋转角度增量：
+Rounded Rectangle|圆角矩形
+Rows:|行数：
+Run garbage collector on status bar click|点击状态栏时执行垃圾回收
+Run Macro|运行宏
+Run single instance listener|运行单实例监听
+Run to Insertion Point|运行到插入点
+Saturate image when autoscaling|自动缩放时饱和处理
+Saturated pixels:|饱和像素：
+Save changes to "|保存更改到“
+Save Settings|保存设置
+Save the|保存
+Save TIFF and raw in Intel byte order|以 Intel 字节序保存 TIFF 与 raw
+Save window locations|保存窗口位置
+Save column headers|保存列标题
+Save row numbers|保存行号
+Scale factor|缩放系数
+Scale factor:|缩放系数：
+Scale Using:|缩放依据：
+Scale when converting|转换时同时缩放
+Scaled Units (|标定单位（
+Search:|搜索：
+Secondary (fill) color:|次级（填充）颜色：
+Segmented Line|折线
+Select Plot:|选择绘图：
+Select Table:|选择表格：
+Selection Brush Tool|选区笔刷工具
+Selection only|仅选区
+Selection:|选区：
+Set stack positions|设置堆栈位置
+Sets the default line selection width.|设置默认线选区宽度。
+Press 'y' (Edit>Selection>Properties)|按 'y'（编辑>选区>属性）
+to change the width of the current|可修改当前
+line selection.|线选区的宽度。
+Shape:|形状：
+SHIFT for horizontal or vertical lines|按住 SHIFT 可画水平或垂直线
+Shortcut:|快捷键：
+Shortcuts are not removed|快捷键不会被移除，
+until ImageJ is restarted.|需重启 ImageJ 后生效。
+Show|显示
+Show "Debug" Window|显示“调试”窗口
+Show Log Window|显示日志窗口
+Show on all Slices|在所有切片上显示
+Show plot|显示绘图
+Show point counts (shortcut: alt+y)|显示点数（快捷键 alt+y）
+Show settings|显示设置
+Show Simplex Settings|显示单纯形设置
+SingleChannel (current channel only)|单通道（仅当前通道）
+SingleFrame (current frame only)|单帧（仅当前帧）
+Size (|尺寸（
+Size:|尺寸：
+Skip dialog when opening .raw files|打开 .raw 文件时跳过对话框
+Slice (1-|切片（1-
+Slice spacing (|切片间距（
+Slice:|切片：
+Slice count:|切片数：
+Slices (|切片数（
+Slices z:|切片 z：
+Smooth if thresholded|阈值化时平滑
+Sort names numerically|按数值排序名称
+Sort...|排序…
+Source Background is Lighter|源背景较亮
+Source:|源：
+Spaces per tab:|每个制表符的空格数：
+Speed (0.1-1000 fps):|速度（0.1-1000 fps）：
+Spline fit|样条拟合
+Stack histogram|堆栈直方图
+Stack1:|堆栈 1：
+Stack2:|堆栈 2：
+Start at:|起点：
+Start slice:|起始切片：
+Start:|开始：
+Starting value:|初始值：
+Step:|步长：
+Stop slice:|结束切片：
+Straight Line|直线
+Stroke (point) color:|描边（点）颜色：
+Stroke color:|描边颜色：
+Stroke width:|描边宽度：
+Style:|样式：
+Suppress Log output|禁止日志输出
+Suppress stripes:|抑制条纹：
+Surface depth-cueing (0-100%):|表面深度提示（0-100%）：
+Symbol:|符号：
+Sync channels|同步通道
+Sync cursor|同步光标
+Sync t-frames|同步时间帧
+Sync z-slices|同步 Z 切片
+Synchronize All|全部同步
+Tab Key Inserts Spaces|Tab 键插入空格
+Tab key inserts spaces:|Tab 键插入空格：
+Target:|目标：
+Template Plot|模板绘图
+Text:|文字：
+The calibration of this image conflicts|此图像的校准
+with the current global calibration.|与当前全局校准冲突。
+This command supports Undo|此命令支持撤销
+This is a custom YesNoCancel dialog|这是自定义的“是/否/取消”对话框
+Threshold color:|阈值颜色：
+Thresholded objects are traced and "Tolerance"|启用阈值时，被阈值化的对象会被追踪，
+is ignored when thresholding is enabled.|而“容差”将被忽略。
+Thresholded pixels to foreground color|阈值像素填充为前景色
+Thresholding method:|阈值方法：
+Title contains:|标题包含：
+Title:|标题：
+To avoid this dialog, enable|要跳过此对话框，请启用
+Tolerance of direction:|方向容差：
+Tolerance:|容差：
+Top:|顶部：
+Total rotation (0-359 degrees):|总旋转角度（0-359 度）：
+Transfer Mode:|传递模式：
+Transparency (%):|透明度（%）：
+Transparency:|透明度：
+Type:|类型：
+Uncalibrated OD|未校准光密度
+Undo  Ctrl+Z|撤销  Ctrl+Z
+Unit of length:|长度单位：
+Unit:|单位：
+Unsigned 16-bit range:|无符号 16 位范围：
+Unsynchronize All|全部取消同步
+Upgrade To:|升级为：
+Upper threshold level:|阈值上限：
+Upper transparency bound:|透明度上界：
+URL:|网址：
+Use arrow keys to move red outline.|用方向键移动红色轮廓。
+Press 'c' to copy data to clipboard.|按 'c' 将数据复制到剪贴板。
+Use foreground color|使用前景色
+Use JFileChooser to open/save|使用 JFileChooser 打开/保存
+Use names as labels|用名称作标签
+Use overlay|使用叠加层
+Use pixel value range|使用像素值范围
+Use pointer cursor|使用指针光标
+Use ROI names as labels|用 ROI 名称作标签
+Use titles as labels|用标题作标签
+Use file chooser to import sequences|用文件选择器导入序列
+Use text tool font|使用文字工具字体
+v=pixel value, x,y&z=pixel coordinates, w=image width,|v=像素值，x,y&z=像素坐标，w=图像宽度，
+h=image height, a=angle, d=distance from center|h=图像高度，a=角度，d=距中心距离
+Value:|数值：
+Vertical scale factor:|垂直缩放系数：
+Voxel size:|体素大小：
+Voxel depth:|体素深度：
+White is zero|白色为零
+Window Width:|窗口宽度：
+X Axis Label|X 轴标签
+X center:|X 中心：
+X coordinate:|X 坐标：
+X location:|X 位置：
+X offset:|X 偏移：
+X radius:|X 半径：
+X scale factor:|X 缩放系数：
+X Scale:|X 比例：
+X shrink factor:|X 收缩系数：
+X:|X：
+X max:|X 最大值：
+X min:|X 最小值：
+X unit:|X 单位：
+Y Axis Label|Y 轴标签
+Y center:|Y 中心：
+Y coordinate:|Y 坐标：
+Y location:|Y 位置：
+Y offset:|Y 偏移：
+Y radius:|Y 半径：
+Y scale factor:|Y 缩放系数：
+Y Scale:|Y 比例：
+Y shrink factor:|Y 收缩系数：
+Y:|Y：
+Y max:|Y 最大值：
+Y unit:|Y 单位：
+Z radius:|Z 半径：
+Z Scale:|Z 比例：
+Z shrink factor:|Z 收缩系数：
+Z:|Z：
+Z unit:|Z 单位：
+Zap Gremlins|清除异常字符
+Zero Fill|零填充
+Zero transparent|零值透明
+Zoom factor:|缩放系数：
+Zoom:|缩放：

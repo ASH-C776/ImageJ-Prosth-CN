@@ -1,0 +1,588 @@
+Color:	9
+Name:	7
+Font size:	6
+Title:	6
+Size:	5
+Interpolation:	5
+Type:	4
+drag and drop target	4
+Process entire stack	4
+Bold	3
+Opacity (0-100%):	3
+Average when downsizing	3
+Channels (c):	3
+Slices (z):	3
+Frames (t):	3
+Dir:	3
+Centered	3
+Format:	3
+Title: 	2
+Line width: 	2
+Label:	2
+To	2
+Transparent background	2
+Stroke width:	2
+Group:	2
+Stroke color:	2
+Fill color:	2
+Show labels	2
+Antialiased text	2
+\"	2
+Use virtual stack	2
+Slice:	2
+Style:	2
+Use Virtual Stack	2
+Output_format:	2
+Scale factor:	2
+Fill color: 	2
+Background:	2
+Display Mode:	2
+Image1:	2
+Image2:	2
+Operation:	2
+Result:	2
+Filter:	2
+Projection method:	2
+Shortcut:	2
+Command:	2
+Slices (	2
+Frames (	2
+Keep source	2
+Create new window	2
+Method:	2
+Keep source images	2
+X location:	2
+Y location:	2
+Pixel units	2
+Rotate around image center	2
+X scale factor:	2
+Y scale factor:	2
+Fill with background color	2
+Interval:	2
+X offset (pixels): 	2
+Y offset (pixels): 	2
+Light background	2
+Value:	2
+Unit of length:	2
+Global	2
+Find: 	2
+Are you sure you want to quit ImageJ?	1
+Red:	1
+Green:	1
+Blue:	1
+Width: 	1
+Height: 	1
+This is a custom YesNoCancel dialog	1
+Fill with:	1
+Item:	1
+Select Plot:	1
+Item to Add:	1
+Select Table:	1
+Fit Data Set:	1
+Fit Function:	1
+Secondary (fill) color:	1
+Symbol:	1
+Visible	1
+X_From	1
+Fix_X Range While Live	1
+Log_X Axis  **	1
+Y_From	1
+Fix_Y Range While Live	1
+Log_Y Axis  **	1
+X Axis Label	1
+Y Axis Label	1
+*   Leave empty for automatic range	1
+** Requires limits > 0 and max/min > 3	1
+    Label supports !!sub-!! and ^^superscript^^	1
+Number Font Size	1
+Label Font Size	1
+Enter Labels for the datasets, one per line.\n	1
+Legend position	1
+Font Size	1
+Bottom-to-top	1
+Template Plot	1
+Copy From Template:	1
+Labels support !!sub-!! and ^^superscript^^	1
+Scale factor	1
+Disable anti-aliased text	1
+Color predefined if group>0	1
+wwwwwwwwwwww	1
+Justification:	1
+Stroke (point) color:	1
+Point type:	1
+Show on all Slices	1
+New overlay	1
+Set stack positions	1
+Current overlay is hidden	1
+Current overlay has 	1
+Hide	1
+No overlay	1
+Show point counts (shortcut: alt+y)	1
+List coordinates (	1
+List properties (	1
+No properties	1
+New Overlay	1
+Enable selection brush	1
+           Size:	1
+Measure reflex angle	1
+The calibration of this image conflicts\nwith the current global calibration.	1
+Disable_Global Calibration	1
+Disable_these Messages	1
+Image type:	1
+Offset to first image:	1
+Number of images:	1
+Gap between images:	1
+White is zero	1
+Little-endian byte order	1
+Open all files in folder	1
+To avoid this dialog, enable	1
+Show \"Debug\" Window	1
+Function name: 	1
+Initial_	1
+Maximum iterations:	1
+Number of restarts:	1
+Error tolerance [1*10^(-x)]:	1
+Speed (0.1-1000 fps):	1
+First Frame:	1
+Last Frame:	1
+Loop Back and Forth	1
+Channel:	1
+Frame:	1
+Slice (1-	1
+Interpolate zoomed images	1
+Open images at 100%	1
+Black canvas	1
+No image border	1
+Use inverting lookup table	1
+Auto contrast stacks	1
+IJ window always on top	1
+Cancel button on right	1
+16-bit range:	1
+Menu font size:	1
+Setting size>17 may not work on Windows	1
+GUI scale (0.5-3.0):	1
+Set to 1.5 to double size of tool icons, or 2.5 to triple	1
+Double head	1
+Keep after adding to overlay	1
+AVI:	1
+Convert to Grayscale	1
+Flip Vertical	1
+First:	1
+Last:	1
+* Leave empty or set to 0 for reading to the end.\n   Also accepts e.g. -5 to skip last 5 frames.	1
+Height (pixels): 	1
+Read images using Bio-Formats	1
+Add macro code:	1
+File name contains:	1
+X shrink factor:	1
+Y shrink factor:	1
+Z shrink factor:	1
+Bin Method: 	1
+This command supports Undo	1
+Location:	1
+Label color: 	1
+Number of labels:	1
+Decimal places:	1
+Zoom factor:	1
+Position:	1
+Zero Fill	1
+New channel order:	1
+Foreground:	1
+Selection:	1
+Target: 	1
+Generate debugging info (javac -g)	1
+All_open windows	1
+Keep original images	1
+Open as 4D_image	1
+Saturated pixels:	1
+Normalize	1
+Equalize histogram	1
+Process_all 	1
+Use stack histogram	1
+Number of Colors (2-256):	1
+X:	1
+Y:	1
+Z:	1
+Left:	1
+Right:	1
+Top:	1
+Bottom:	1
+Front:	1
+Back:	1
+X_unit:	1
+Y_unit:	1
+Z_unit:	1
+Parameter: 	1
+Automatic binning	1
+or specify bins:	1
+and range:	1
+Ignore selection	1
+Duplicate stack	1
+Range:	1
+Duplicate hyperstack	1
+Display:	1
+FFT (\"FFT of...\") window	1
+Raw power spectrum	1
+Fast Hartley Transform	1
+Complex Fourier Transform	1
+Reuse \"FFT of...\" window	1
+Do forward transform	1
+Image1: 	1
+Image2: 	1
+Do inverse transform	1
+X radius:	1
+Y radius:	1
+Z radius:	1
+SingleChannel (current channel only)	1
+SingleFrame (current frame only)	1
+enclose regex in parens	1
+Start:	1
+Count:	1
+Step:	1
+Sort names numerically	1
+Open as separate images	1
+X sigma:	1
+Y sigma:	1
+Z sigma:	1
+Vertical scale factor:	1
+Horizontal scale factor:	1
+Uncalibrated OD	1
+Label with percentages	1
+Invert peaks	1
+Lane Orientation:	1
+Grid type:	1
+Area per point:	1
+Center grid on image	1
+Random offset	1
+Group size:	1
+Bins:	1
+Use pixel value range	1
+or use:	1
+X_min:	1
+X_max:	1
+Y_max:	1
+Stack histogram	1
+Remove all 	1
+Shortcuts are not removed\nuntil ImageJ is restarted.	1
+Order:	1
+Convert RGB to 3 Channel Hyperstack	1
+Display mode:	1
+Label images	1
+Create image with:	1
+Channels (	1
+32-bit (float) result	1
+Image_1 (reference):	1
+Image_2:	1
+Upgrade To:	1
+Title contains:	1
+Bicubic interpolation	1
+Use titles as labels	1
+This 	1
+Number of Colors:	1
+Scale Using:	1
+Maximum memory:	1
+Parallel threads:	1
+Keep multiple undo buffers	1
+Run garbage collector on status bar click	1
+Columns:	1
+Rows:	1
+First slice:	1
+Last slice:	1
+Increment:	1
+Border width:	1
+Label slices	1
+Use foreground color	1
+Menu Bar	1
+Monospaced Font	1
+Divide by zero value:	1
+Use pointer cursor	1
+Hide \"Process Stack?\" dialog	1
+Require 	1
+Move isolated plugins to Misc. menu	1
+Run single instance listener	1
+Enhanced line tool	1
+Reverse CZT order of \">\" and \"<\"	1
+Don't set Mac menu bar	1
+Save window locations	1
+Non-blocking filter dialogs	1
+Debug mode	1
+Modern mode	1
+Sets the default line selection width.\nPress 'y' (Edit>Selection>Properties)\nto change the width of the current\nline selection.	1
+JPEG quality (0-100):	1
+GIF and PNG transparent index:	1
+File extension for tables (.csv, .tsv or .txt):	1
+Use JFileChooser to open/save	1
+Use_file chooser to import sequences	1
+Save TIFF and raw in Intel byte order	1
+Skip dialog when opening .raw files	1
+Results Table Options	1
+Copy_column headers	1
+Copy_row numbers	1
+Save_column headers	1
+Save_row numbers	1
+Scale when converting	1
+Calibrate	1
+Full range 16-bit inversions	1
+Open as 32-bit float	1
+Ignore rescale slope	1
+Fixed Z slope and intercept	1
+Orthogonal views	1
+Rotate YZ	1
+Flip XZ	1
+\"Overlay>Add\" requires a selection.	1
+Remove existing overlay	1
+Image:	1
+Image to add:	1
+Zero transparent	1
+Use names as labels	1
+Draw backgrounds	1
+Auto-measure	1
+Auto-next slice	1
+Add_to overlay	1
+Add to ROI Manager	1
+Label points	1
+Show on all slices	1
+Counter:	1
+---------- Plot Defaults ---------	1
+Draw grid lines	1
+Draw_ticks	1
+Auto-close	1
+List values	1
+------- Profile Plot Options -------	1
+Fixed y-axis scale	1
+Minimum Y:	1
+Maximum Y:	1
+Axis of rotation:	1
+Slice spacing (	1
+Initial angle (0-359 degrees):	1
+Total rotation (0-359 degrees):	1
+Rotation angle increment:	1
+Lower transparency bound:	1
+Upper transparency bound:	1
+Surface depth-cueing (0-100%):	1
+Interior depth-cueing (0-100%):	1
+All time points	1
+Debug Mode:	1
+Proxy server:	1
+Port:	1
+Or, use system proxy settings	1
+Corner diameter:	1
+Color: 	1
+Depth (images):	1
+Time (frames):	1
+Constrain aspect ratio	1
+Create RGB image with:	1
+C1 (red):	1
+C2 (green):	1
+C3 (blue):	1
+C4 (gray):	1
+C5 (cyan):	1
+C6 (magenta):	1
+C7 (yellow):	1
+Create composite	1
+Ignore source LUTs	1
+Enlarge by	1
+Enter negative number to shrink	1
+ \n 	1
+Enter negative angle to \nrotate counter-clockwise	1
+X Scale:	1
+Y Scale:	1
+Z Scale:	1
+Delay (seconds):	1
+Adjust interval to match	1
+Band Size:	1
+Reset:	1
+Output spacing (	1
+Slice_count:	1
+Start at:	1
+Flip vertically	1
+Rotate 90 degrees	1
+Avoid interpolation	1
+(use 1 pixel spacing)	1
+Voxel size: 	1
+Output size: 	1
+X coordinate:	1
+Y coordinate:	1
+Oval	1
+Constrain square/circle	1
+Scaled units (	1
+Stack1:	1
+Stack2:	1
+Combine vertically	1
+Prepend	1
+Delete current	1
+Source: 	1
+Destination: 	1
+X Location: 	1
+Y Location: 	1
+Columns: 	1
+Rows: 	1
+Border width: 	1
+Reduction Factor:	1
+Reduce in Z-Dimension	1
+Start At:	1
+Digits (1-8):	1
+Use slice labels as file names	1
+Add code:	1
+Line Width:	1
+Enter a range (e.g. 2-14), a range with increment\n	1
+Enter a range (e.g. 2-14), a range with increment\n(e.g. 1-100-2) or a list (e.g. 7,9,25,27)	1
+Delete slices from original stack	1
+Do_not create substack	1
+Plot Width (pixels):	1
+Angle (-90-90 degrees):	1
+Polygon Multiplier (10-200%):	1
+Draw_Wireframe	1
+Shade	1
+Draw_Axis	1
+Source Background is Lighter	1
+Fill Plot Background with Black	1
+One Polygon Per Line	1
+Font:	1
+Just:	1
+Bkgd:	1
+Calculate threshold for each image	1
+Only convert current image	1
+Black background (of binary masks)	1
+List thresholds	1
+Create new stack	1
+Thresholded pixels to foreground color	1
+Remaining pixels to background color	1
+Black foreground, white background	1
+Enter URL of an image, macro or web page	1
+URL:	1
+Tolerance: 	1
+Enable Thresholding	1
+Smooth if thresholded	1
+Thresholded objects are traced and \"Tolerance\"\nis ignored when thresholding is enabled.	1
+Background value:	1
+Invert y coordinates off (0 at top of image)	1
+Suppress Log output	1
+Process all 	1
+Profile	1
+Zoom:	1
+X center:	1
+Y center:	1
+Start slice:	1
+Stop slice:	1
+Projection type	1
+All time frames	1
+Redirect to:	1
+Decimal places (0-9):	1
+Compression:	1
+Frame Rate:	1
+Rolling ball radius:	1
+Separate colors	1
+Create background (don't subtract)	1
+Sliding paraboloid	1
+Disable smoothing	1
+Iterations (1-	1
+Count (1-8):	1
+Black background	1
+Pad edges when eroding	1
+EDM output:	1
+Do:	1
+Function:	1
+Unit:	1
+Left column contains uncalibrated measured values,\n right column contains known values (e.g., OD).	1
+Global calibration	1
+Show plot	1
+Show Simplex Settings	1
+ \nKernel:	1
+Normalize Kernel	1
+Algorithm:	1
+Shape:	1
+Orientation:	1
+Filter_large structures down to	1
+Filter_small structures up to	1
+Suppress stripes:	1
+Tolerance of direction:	1
+Autoscale after filtering	1
+Saturate image when autoscaling	1
+Display filter	1
+Box Sizes:	1
+Black Background	1
+Sigma (Radius):	1
+Scaled Units (	1
+Code:	1
+v=pixel value, x,y&z=pixel coordinates, w=image width,\nh=image height, a=angle, d=distance from center\n	1
+Note: c*z*t must equal 	1
+Pixel_width:	1
+Pixel_height:	1
+Voxel_depth:	1
+Frame interval:	1
+Origin (pixels):	1
+Invert Y coordinates	1
+Prominence >	1
+Strict	1
+Exclude edge maxima	1
+Above lower threshold	1
+Output type:	1
+Size (	1
+Draw border	1
+Center on page	1
+Print title	1
+Selection only	1
+Rotate 90	1
+Print_actual size	1
+Radius	1
+Which outliers	1
+Light Background	1
+Don't subtract (grayscale open)	1
+Grid lines:	1
+Enlarge image	1
+Distance in pixels:	1
+Known distance:	1
+Pixel aspect ratio:	1
+Scale: 	1
+Starting value:	1
+Text:	1
+ Use overlay	1
+ Use_text tool font	1
+X offset:	1
+Y offset:	1
+Overlay only	1
+Radius (Sigma)	1
+Mask Weight (0.1-0.9)	1
+Convert to multichannel composite image?	1
+Cmd	1
+Minimum displayed value: 	1
+Maximum displayed value: 	1
+Unsigned 16-bit range:	1
+Propagation of RGB images not supported. As a work-around,\nconvert images to multi-channel composite color.	1
+Window Center (Level): 	1
+Window Width: 	1
+Propagate to all open images	1
+Enter mode that supports interactive\nediting and running of macros and scripts?	1
+Go to line number: 	1
+Spaces per tab: 	1
+Tab key inserts spaces: 	1
+Formula:	1
+Rename As:	1
+Measure all 	1
+One row per slice	1
+Append results	1
+Enabling 	1
+Show 	1
+Save 	1
+Apply changes to all 	1
+Remove positions for:      	1
+Channels c:	1
+Slices z:	1
+Frames t:	1
+Associate \"Show All\" ROIs with slices	1
+Restore ROIs centered	1
+Use ROI names as labels	1
+Save the 	1
+Lower threshold level: 	1
+Upper threshold level: 	1
+Transparency (%):	1
+Paint on overlay	1
+Brush width:	1
+Transparency:	1
+SHIFT for horizontal or vertical lines\n	1
+Grayscale readout:	1
+RGB readout:	1
+Copy to clipboard:	1
+Use arrow keys to move red outline.\nPress 'c' to copy data to clipboard.	1
+Column: 	1

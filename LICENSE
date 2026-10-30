@@ -1,0 +1,34 @@
+ImageJ 部分（上游内核）
+=====================
+
+ImageJ Disclaimer
+
+ImageJ was developed at the National Institutes of Health by an employee of the
+Federal Government in the course of his official duties. Pursuant to Title 17,
+Section 105 of the United States Code, this software is not subject to
+copyright protection and is in the public domain. ImageJ is an experimental
+system. NIH assumes no responsibility whatsoever for its use by other parties,
+and makes no guarantees, expressed or implied, about its quality, reliability,
+or any other characteristic.
+
+
+汉化与界面改动部分（本项目）
+==========================
+
+本项目对 ImageJ 所做的中文本地化与界面改动，同样释出到公有领域
+（Public Domain / CC0-1.0），不附加任何条件。
+
+This project's Chinese localization and UI modifications are released into the
+public domain (CC0-1.0), with no conditions attached.
+
+
+第三方组件
+==========
+
+本项目分发包内置 OpenJDK 17 运行时（Microsoft Build of OpenJDK），
+依据 GNU General Public License v2 with Classpath Exception 分发。
+完整许可证文本随分发包提供，位于 runtime/legal/ 目录。
+
+The bundled OpenJDK 17 runtime is distributed under the GNU General Public
+License v2 with the Classpath Exception. Full license texts are included in
+the distribution under runtime/legal/.

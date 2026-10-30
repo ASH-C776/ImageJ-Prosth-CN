@@ -1,0 +1,31 @@
+NOTICE / 第三方组件声明
+======================
+
+一、上游软件
+------------
+本项目的图像处理内核来自 ImageJ 1.54u。
+ImageJ 由美国国立卫生研究院（NIH）的 Wayne Rasband 开发，
+依 17 U.S.C. §105 属公有领域（Public Domain），不受版权保护。
+上游项目：https://github.com/imagej/ImageJ
+
+二、内置 Java 运行时
+--------------------
+本项目的 Windows 分发包内置 Microsoft Build of OpenJDK 17.0.20.101。
+
+许可证：GNU General Public License, version 2,
+        with the Classpath Exception（GPLv2 + CPE）
+
+Classpath Exception 的作用：
+  它明确允许将本项目的 Java 程序（ij-zh.jar）链接到 OpenJDK 类库，
+  而不使本项目被 GPL 传染。因此本项目的汉化改动可按公有领域发布。
+
+分发义务已满足：
+  完整许可证文本与各第三方组件声明随分发包提供，位于 runtime/legal/ 目录
+  （含 LICENSE、ASSEMBLY_EXCEPTION、ADDITIONAL_LICENSE_INFO 及 zlib/ICU/Unicode 等声明）。
+
+三、本项目改动
+--------------
+仅包含中文本地化（界面文案、语言包、中英切换）与界面视觉调整（配色、圆角、
+按钮样式、高 DPI 自适应）。未修改 ImageJ 的图像处理与测量算法。
+
+本项目非 NIH / ImageJ 官方发布。

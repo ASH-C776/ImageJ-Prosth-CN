@@ -1,0 +1,570 @@
+(use 1 pixel spacing)
+*   Leave empty for automatic range
+* Leave empty or set to 0 for reading to the end.\n   Also accepts e.g. -5 to skip last 5 frames.
+** Requires limits > 0 and max/min > 3
+------- Profile Plot Options -------
+---------- Plot Defaults ---------
+0.00
+16-bit histogram
+16-bit range:
+\"
+\"Overlay>Add\" requires a selection.
+\"Show All\" Color...
+\n
+\nKernel:
+Abort Macro
+Add code:
+Add macro code:
+Add to ROI Manager
+Add_to overlay
+Adjust interval to match
+Algorithm:
+All time points
+All_open windows
+and range:
+Angle (-90-90 degrees):
+Append results
+Apply changes to all
+Apply LUTs
+Are you sure you want to quit ImageJ?
+Area per point:
+Assign to Repeat Cmd
+Associate \"Show All\" ROIs with slices
+Auto-close
+Auto-measure
+Auto-next slice
+Automatic binning
+Autoscale after filtering
+Avoid interpolation
+Axis of rotation:
+Back:
+Background value:
+Background:
+Band Size:
+below:
+Bicubic interpolation
+Bin Method:
+Bins:
+Bkgd:
+Black background
+Black Background
+Black background (of binary masks)
+Black foreground, white background
+Blue:
+Border width:
+Bottom-to-top
+Bottom:
+Box Sizes:
+Brush width:
+C1 (red):
+C2 (green):
+C3 (blue):
+C4 (gray):
+C5 (cyan):
+C6 (magenta):
+C7 (yellow):
+Calculate threshold for each image
+Center grid on image
+Center on page
+Channel
+Channel:
+Channels (
+Channels c:
+Click to Remove Scale
+Close window after running command
+Code:
+Color predefined if group>0
+Color space:
+Color:
+Column:
+Columns:
+Combine vertically
+Combined Stacks
+Command Finder
+Command:
+Complex Fourier Transform
+Compression:
+Constrain square/circle
+Convert RGB to 3 Channel Hyperstack
+Convert to Grayscale
+Convert to multichannel composite image?
+Copy  Ctrl+C
+Copy From Template:
+Copy to clipboard:
+Copy to Image Info
+Copy_column headers
+Copy_row numbers
+Corner diameter:
+Count (1-8):
+Count:
+Counter:
+Create composite
+Create image with:
+Create new stack
+Create RGB image with:
+Current overlay has
+Current overlay is hidden
+Cut  Ctrl+X
+Dark background
+Debug Macro
+Debug mode
+Debug Mode:
+Decimal places:
+Delay (seconds):
+Delete current
+Delete slices from original stack
+Destination:
+Detab...
+Disable anti-aliased text
+Disable_Global Calibration
+Disable_these Messages
+Display filter
+Display Mode:
+Display mode:
+Display:
+Distance in pixels:
+Divide by zero value:
+Do forward transform
+Do inverse transform
+Do:
+Do_not create substack
+Don't reset range
+Don't Save
+Don't set Mac menu bar
+Double head
+Draw backgrounds
+Draw border
+Draw grid lines
+EDM output:
+Elliptical selections
+Enable selection brush
+Enable Thresholding
+Enabling
+enclose regex in parens
+Enhanced line tool
+Enlarge by
+Enlarge image
+Enter a range (e.g. 2-14), a range with increment\n
+Enter a range (e.g. 2-14), a range with increment\n(e.g. 1-100-2) or a list (e.g. 7,9,25,27)
+Enter Interactive Mode
+Enter Labels for the datasets, one per line.\n
+Enter mode that supports interactive\nediting and running of macros and scripts?
+Enter negative angle to \nrotate counter-clockwise
+Enter negative number to shrink
+Enter URL of an image, macro or web page
+Error tolerance [1*10^(-x)]:
+Evaluate BeanShell
+Evaluate JavaScript
+Evaluate Line
+Evaluate Macro
+Evaluate Python
+Fast Hartley Transform
+Fast Trace
+FFT (\"FFT of...\") window
+File extension for tables (.csv, .tsv or .txt):
+File name contains:
+Fill color:
+Fill Plot Background with Black
+Fill with:
+Filter:
+Filter_large structures down to
+Filter_small structures up to
+Find Next
+Find...
+Find:
+First Frame:
+First slice:
+First:
+Fit
+Fit Data Set:
+Fit Function:
+Fit:
+Fix_X Range While Live
+Fix_Y Range While Live
+Fixed y-axis scale
+Fixed Z slope and intercept
+Flip Vertical
+Flip XZ
+Font Size
+Font size:
+Font:
+Foreground:
+Format:
+Formula:
+Frame interval:
+Frame Rate:
+Frame:
+Frames (
+Frames t:
+Freehand Line
+Front:
+Full range 16-bit inversions
+Function Finder...
+Function name:
+Function:
+Gap between images:
+Generate debugging info (javac -g)
+GIF and PNG transparent index:
+Global calibration
+Go to line number:
+Go to Line...
+Grayscale readout:
+Green:
+Grid lines:
+Grid type:
+Group size:
+Group:
+Hide \"Process Stack?\" dialog
+Horizontal scale factor:
+Ignore rescale slope
+Ignore source LUTs
+Image coordinates
+Image scaling
+Image to add:
+Image type:
+Image:
+Image_1 (reference):
+Image_2:
+Increment:
+Initial angle (0-359 degrees):
+Input...
+Install Macros
+Interior depth-cueing (0-100%):
+Interpolation:
+Interval:
+Invert peaks
+Invert y coordinates off (0 at top of image)
+Item to Add:
+Item:
+Iterations (1-
+JPEG quality (0-100):
+Just:
+Justification:
+Keep after adding to overlay
+Keep multiple undo buffers
+Known distance:
+Label color:
+Label Font Size
+Label images
+Label points
+Label slices
+Label supports !!sub-!! and ^^superscript^^
+Label with percentages
+Label:
+Labels support !!sub-!! and ^^superscript^^
+Lane Orientation:
+Last Frame:
+Last slice:
+Last:
+Left column contains uncalibrated measured values,\n right column contains known values (e.g., OD).
+Left:
+Legend position
+Line Width:
+Line width:
+List
+List coordinates (
+List properties (
+List thresholds
+List values
+List...
+Little-endian byte order
+Location:
+Log scale
+Log_X Axis  **
+Log_Y Axis  **
+Loop Back and Forth
+Lower threshold level:
+Lower transparency bound:
+Macro.ijm
+Make Text Larger
+Make Text Smaller
+Maximum displayed value:
+Maximum iterations:
+Maximum memory:
+Maximum Y:
+Measure all
+Measure reflex angle
+Menu Bar
+Menu font size:
+Method:
+Minimum displayed value:
+Minimum Y:
+Modern mode
+Monospaced Font
+Move isolated plugins to Misc. menu
+Multi-point Tool
+My_Plugin.java
+Name:
+New channel order:
+New overlay
+New Overlay
+No overlay
+No properties
+No windows to select.
+Non-blocking filter dialogs
+Normalize Kernel
+Note: c*z*t must equal
+Number Font Size
+Number of Colors (2-256):
+Number of Colors:
+Number of images:
+Number of labels:
+Number of restarts:
+Offset to first image:
+One Polygon Per Line
+One row per slice
+Only convert current image
+Open all files in folder
+Open as 32-bit float
+Open as 4D_image
+Open as separate images
+Operation:
+or specify bins:
+or use:
+Or, use system proxy settings
+Order:
+Orientation:
+Origin (pixels):
+Output Size:
+Output size:
+Output spacing (
+Output type:
+Output...
+Output_format:
+Oval selections
+Overlay only
+Pad edges when eroding
+Paint on overlay
+Parallel threads:
+Parameter:
+Paste  Ctrl+V
+Pixel aspect ratio:
+Pixel_height:
+Pixel_width:
+Plot Width (pixels):
+Plot...
+Point type:
+Polygon Multiplier (10-200%):
+Port:
+Position:
+Prefs\u2026
+Print title
+Print_actual size
+Process all
+Process_all
+Projection method:
+Projection type
+Projections of
+Propagation of RGB images not supported. As a work-around,\nconvert images to multi-channel composite color.
+Proxy server:
+Random offset
+Range:
+Raw power spectrum
+Raw values
+Read images using Bio-Formats
+Record:
+Red:
+Reduce in Z-Dimension
+Reduction Factor:
+Remaining pixels to background color
+Remove all
+Remove existing overlay
+Remove positions for:
+Rename As:
+Require
+Reset:
+Restore ROIs centered
+Result:
+Results Table Options
+Reuse \"FFT of...\" window
+Reverse CZT order of \">\" and \"<\"
+RGB readout:
+Right:
+Rolling ball radius:
+Rotate 90
+Rotate 90 degrees
+Rotate YZ
+Rotated Rectangle
+Rotation angle increment:
+Rounded Rectangle
+Rows:
+Run garbage collector on status bar click
+Run Macro
+Run single instance listener
+Run to Insertion Point
+Saturate image when autoscaling
+Saturated pixels:
+Save changes to \"
+Save Settings
+Save the
+Save TIFF and raw in Intel byte order
+Save window locations
+Save_column headers
+Save_row numbers
+Scale factor
+Scale factor:
+Scale Using:
+Scale when converting
+Scaled Units (
+Scaled units (
+Script.bsh
+Script.js
+Script.py
+Search:
+Secondary (fill) color:
+Segmented Line
+Select Plot:
+Select Table:
+Selection Brush Tool
+Selection only
+Selection:
+Set stack positions
+Sets the default line selection width.\nPress 'y' (Edit>Selection>Properties)\nto change the width of the current\nline selection.
+Shape:
+SHIFT for horizontal or vertical lines\n
+Shortcut:
+Shortcuts are not removed\nuntil ImageJ is restarted.
+Show
+Show \"Debug\" Window
+Show Log Window
+Show on all Slices
+Show on all slices
+Show plot
+Show point counts (shortcut: alt+y)
+Show settings
+Show Simplex Settings
+SingleChannel (current channel only)
+SingleFrame (current frame only)
+Size (
+Size:
+Skip dialog when opening .raw files
+Slice (1-
+Slice spacing (
+Slice:
+Slice_count:
+Slices (
+Slices z:
+Smooth if thresholded
+Sort names numerically
+Sort...
+Source Background is Lighter
+Source:
+Spaces per tab:
+Speed (0.1-1000 fps):
+Spline fit
+Stack histogram
+Stack1:
+Stack2:
+Start at:
+Start At:
+Start slice:
+Start:
+Starting value:
+Step:
+Stop slice:
+Straight Line
+Stroke (point) color:
+Stroke color:
+Stroke width:
+Style:
+Suppress Log output
+Suppress stripes:
+Surface depth-cueing (0-100%):
+Symbol:
+Sync channels
+Sync cursor
+Sync t-frames
+Sync z-slices
+Synchronize All
+Tab Key Inserts Spaces
+Tab key inserts spaces:
+Target:
+Template Plot
+Text:
+The calibration of this image conflicts\nwith the current global calibration.
+This
+This command supports Undo
+This is a custom YesNoCancel dialog
+Threshold color:
+Thresholded objects are traced and \"Tolerance\"\nis ignored when thresholding is enabled.
+Thresholded pixels to foreground color
+Thresholding method:
+Title contains:
+Title:
+To avoid this dialog, enable
+Tolerance of direction:
+Tolerance:
+Top:
+Total rotation (0-359 degrees):
+Transfer Mode:
+Transparency (%):
+Transparency:
+Type:
+Uncalibrated OD
+Undo  Ctrl+Z
+Unit of length:
+Unit:
+Unsigned 16-bit range:
+Unsynchronize All
+Upgrade To:
+Upper threshold level:
+Upper transparency bound:
+URL:
+Use arrow keys to move red outline.\nPress 'c' to copy data to clipboard.
+Use foreground color
+Use JFileChooser to open/save
+Use names as labels
+Use overlay
+Use pixel value range
+Use pointer cursor
+Use ROI names as labels
+Use titles as labels
+Use_file chooser to import sequences
+Use_text tool font
+v=pixel value, x,y&z=pixel coordinates, w=image width,\nh=image height, a=angle, d=distance from center\n
+Value:
+Vertical scale factor:
+Voxel size:
+Voxel_depth:
+White is zero
+Window Width:
+X Axis Label
+X center:
+X coordinate:
+X location:
+X Location:
+X offset:
+X radius:
+X scale factor:
+X Scale:
+X shrink factor:
+X sigma:
+X:
+X_max:
+X_min:
+X_unit:
+Y Axis Label
+Y center:
+Y coordinate:
+Y Location:
+Y location:
+Y offset:
+Y radius:
+Y scale factor:
+Y Scale:
+Y shrink factor:
+Y sigma:
+Y:
+Y_max:
+Y_unit:
+Z radius:
+Z Scale:
+Z shrink factor:
+Z sigma:
+Z:
+Z_unit:
+Zap Gremlins
+Zero Fill
+Zero transparent
+Zoom factor:
+Zoom:

@@ -1,0 +1,36 @@
+# ===== 构建产物 =====
+build/
+dist/
+dist_input/
+out/
+*.class
+
+# ===== 发布二进制（走 GitHub / Gitee Release，不入库）=====
+*.jar
+*.exe
+*.zip
+ij.tar.gz
+
+# ===== 打包输出目录 =====
+runtime/
+app/
+ImageJ-Prosth-CN/
+
+# ===== 会话 / 本地数据（含记忆与凭据，绝不入库）=====
+.workbuddy/
+.tmp_shot/
+
+# ===== 调试与诊断残留 =====
+crop_*.png
+shot_*.png
+fontdiag*
+dlg_check.txt
+
+# ===== 内部文档 / 已放弃子项目 =====
+GitHub发布方案.md
+ToothAngle/
+ToothAngle插件规格定稿.md
+
+# ===== 系统 =====
+Thumbs.db
+.DS_Store

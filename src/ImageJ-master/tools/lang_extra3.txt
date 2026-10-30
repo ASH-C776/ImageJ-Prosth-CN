@@ -1,0 +1,126 @@
+Delete Points?|删除这些点？
+Point Selection|点选区
+New Image...|新建图像…
+Save as TIFF|另存为 TIFF
+Import>Raw...|导入>原始数据…
+Replace File?|替换文件？
+AVI Reader|AVI 读取器
+Set Position|设置位置
+Batch Convert|批量转换
+Image Shrink|图像缩小
+Circular ROI|圆形选区
+ImageJ Updater|ImageJ 更新器
+Open Stack From List|从列表打开堆栈
+MedianCut|中位切分
+FFT Math|FFT 运算
+Import Image Sequence|导入图像序列
+3D Gaussian Blur|三维高斯模糊
+Gel Analyzer|凝胶分析
+Lane Orientation|泳道方向
+Remove|移除
+Convert to HyperStack|转换为超堆栈
+LUT Editor|LUT 编辑器
+Miscellaneous Options|杂项选项
+Default Line Width|默认线宽
+I/O Options|输入/输出选项
+Conversion Options|转换选项
+DICOM Options|DICOM 选项
+No Selection|无选区
+Plot Defaults|绘图默认值
+3D Projection|三维投影
+Convert to RGB|转换为 RGB
+Resize|调整尺寸
+Enlarge Selection|扩展选区
+Rotate Selection|旋转选区
+Scale Selection|缩放选区
+Delayed Capture|延迟截屏
+Reslice|重新切层
+Combiner|合并器
+Stack Inserter|堆栈插入器
+Stack Maker|堆栈生成器
+Reduce Size|缩小尺寸
+Save Image Sequence|保存图像序列
+Startup Macro|启动宏
+Straightener|拉直工具
+Subhyperstack Maker|子超堆栈生成器
+Substack Maker|子堆栈生成器
+Surface Plotter|表面绘图器
+Convert Stack to Binary|堆栈转二值
+Enter a URL|输入网址
+Profiler|轮廓分析
+ZProjection|Z 轴投影
+Set Zoom|设置缩放
+Save as AVI...|另存为 AVI…
+Binary Options|二值选项
+Dithering|抖动
+FFT Bandpass Filter|FFT 带通滤波
+Gaussian Noise|高斯噪声
+Fractal Box Counter|分形盒计数
+Label Stacks|标注堆栈
+Set Display Range|设置显示范围
+Contrast Adjuster|对比度调整器
+Set W&L|设置窗口/位深
+Formula|公式
+Multi Measure|批量测量
+Multi Crop|批量裁剪
+Set Threshold Levels|设置阈值水平
+Pixel Inspector Prefs...|像素检视器首选项…
+Sort Table|排序表格
+Image ROI Properties|图像选区属性
+Selection Brush|选区笔刷
+Angle Tool|角度工具
+Draw_Wireframe|绘制线框
+Draw Wireframe|绘制线框
+Draw_Axis|绘制坐标轴
+Draw Axis|绘制坐标轴
+Shade|着色
+Draw_ticks|绘制刻度
+Draw ticks|绘制刻度
+Initial_|初始
+Initial|初始
+X_From|X 起始
+X From|X 起始
+Y_From|Y 起始
+Y From|Y 起始
+Cmd|命令
+Oval|椭圆
+Prepend|在前端插入
+Visible|可见
+Hide|隐藏
+Live|实时
+Info|信息
+Test|测试
+Create|创建
+Source|源码
+Show Parent|显示上级
+Thickness in pixels:|线条粗细（像素）：
+Thickness in pixels|线条粗细（像素）
+Label all slices|标注所有片层
+auto|自动
+Pass|通过
+Hue|色相
+Saturation|饱和度
+Brightness|亮度
+Width in|宽度
+Height in|高度
+Histogram of|直方图：
+Download |下载
+Download|下载
+Set Slice Label|设置片层标签
+This|此
+Labels support !!sub-!! and ^^superscript^^|标签支持 !!下标!! 与 ^^上标^^
+Enter Labels for the datasets, one per line.|为每个数据集输入标签，每行一个。
+The calibration of this image conflicts|本图像的标定与|with the current global calibration.|当前全局标定冲突。
+* Leave empty or set to 0 for reading to the end.|* 留空或填 0 表示读到结尾。|   Also accepts e.g. -5 to skip last 5 frames.|   也可填 -5 表示跳过最后 5 帧。
+Shortcuts are not removed|快捷键不会立即移除，|until ImageJ is restarted.|需重启 ImageJ 后生效。
+Sets the default line selection width.|设置直线选区的默认宽度。|Press 'y' (Edit>Selection>Properties)|按 y（编辑>选区>属性）|to change the width of the current|可修改当前直线|line selection.|选区的宽度。
+---------- Plot Defaults ---------|---------- 绘图默认值 ---------
+Enter negative angle to |输入负角度表示|rotate counter-clockwise|逆时针旋转
+Enter a range (e.g. 2-14), a range with increment|输入范围（如 2-14）、带增量的范围|(e.g. 1-100-2) or a list (e.g. 7,9,25,27)|（如 1-100-2）或列表（如 7,9,25,27）
+Thresholded objects are traced and "Tolerance"|已阈值化的对象会被描边，且启用阈值时|is ignored when thresholding is enabled.|"容差"设置被忽略。
+Left column contains uncalibrated measured values,|左列是未标定的测量值，| right column contains known values (e.g., OD).|右列是已知值（如光密度 OD）。
+v=pixel value, x,y&z=pixel coordinates, w=image width,|v=像素值，x、y、z=像素坐标，w=图像宽度，|h=image height, a=angle, d=distance from center|h=图像高度，a=角度，d=距中心距离
+Propagation of RGB images not supported. As a work-around,|不支持 RGB 图像的传递。变通做法是|convert images to multi-channel composite color.|先把图像转成多通道合成彩色。
+Enter mode that supports interactive|是否进入支持交互式|editing and running of macros and scripts?|编辑与运行宏/脚本的模式？
+SHIFT for horizontal or vertical lines|按住 SHIFT 画水平或垂直线
+Use arrow keys to move red outline.|用方向键移动红色轮廓。|Press 'c' to copy data to clipboard.|按 c 把数据复制到剪贴板。

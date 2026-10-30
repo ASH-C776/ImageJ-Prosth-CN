@@ -1,0 +1,175 @@
+
+16-bit
+2048
+32-bit
+8-bit
+8-bit Color
+About ImageJ...
+About Plugins
+Adjust
+Analyze
+Analyze Particles...
+Animated Gaussian Blur
+Animated Icon Tool
+Animation
+Annular Selection
+Array Functions
+Arrow Plot
+Asteroids
+Bar Charts
+Batch
+Big Cursor
+Binary
+Breakout
+Cache Sample Images 
+Calibrate...
+Cascade
+Circle Tool
+Clear
+Clear Outside
+Clear Results
+Close
+Close All
+Cloud Debugger
+Color
+Colors of 2021
+Copy
+Copy to System
+Crop
+Crop Multiple Rois
+Curve Fitting
+Custom Measurement
+Custom Plot Symbols
+Cut
+Damped Wave Plot
+Dev. Resources...
+Dialog Box
+Dialog Demo
+Distribution...
+Draw
+Dual Progress Bars
+Duplicate...
+Dynamic Plot
+Dynamic Plot 2D
+Easter Eggs
+Edit
+Enhance Contrast...
+Event Listener
+Example Plot
+FFT
+FFT Filter
+File
+Fill
+Filters
+Find Edges
+Find Maxima...
+Gamma Adjuster
+Gels
+Grab Viridis Colormap
+HSB (32-bit)
+HSB Stack
+Help
+Histogram
+Histogram Plots
+Histograms
+Home
+Hyperstacks
+Image
+Image Calculator...
+ImageJ
+ImageJ Website...
+Import
+Invert
+JPEG Quality Plot
+LUTs
+Lab Stack
+Label
+Life
+Lookup Tables
+Macro Functions...
+Macros
+Main Window [
+Math
+Measure
+New
+Noise
+Non-numeric Table
+Open Next
+Open Recent
+Open Samples
+Open as Panel
+Open...
+OpenDialog Demo
+Options
+Overlay
+Overlay Text
+Page Setup...
+Paste
+Paste Control...
+Plasma Cloud
+Plot Profile
+Plot Random Data
+Plot Results
+Plot Styles
+Plot With Spectrum
+Plugin
+Plugin Filter
+Plugin Frame
+Plugin Tool
+Plugins
+Point Picker
+Points
+Pong
+Print...
+Process
+Process Folder
+Properties...
+Put Behind [tab]
+Quit
+RGB Color
+RGB Stack
+Random Data
+Refresh Menus
+Release Notes...
+Rename...
+Repeat Command
+Revert
+Save
+Save All Images
+Save As
+Scale...
+Selection
+Semi-log Plot
+Set Measurements...
+Set Scale...
+Shadows
+Shapes
+Sharpen
+Show All
+Show Info...
+Show all LUTs
+Sine/Cosine Table
+Smooth
+Snake
+Sphere
+Spiral Rotation
+Stack Overlay
+Stacks
+Star Tool
+Subtract Background...
+Summarize
+Surface Plot...
+Synthetic Images
+Terabyte VirtualStack
+Tetris
+Tile
+Tools
+Transform
+Turtle Graphics
+Type
+Undo
+Update ImageJ...
+Why are Plugins Missing?
+Window
+Zoom
+temp

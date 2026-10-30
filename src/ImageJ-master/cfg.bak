@@ -1,0 +1,8 @@
+[Application]
+app.classpath=$APPDIR\ij-zh.jar
+app.mainclass=ij.ImageJ
+
+[JavaOptions]
+java-options=-Djpackage.app-version=1.0.0
+java-options=-Dfile.encoding=UTF-8
+java-options=-Xmx4g
