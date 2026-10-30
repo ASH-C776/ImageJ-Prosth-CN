@@ -41,7 +41,8 @@
 | 包 | 说明 |
 |---|---|
 | `ImageJ-Prosth-CN-win64.zip` | **便携包**：内置 OpenJDK 17，解压即用，无需安装 Java |
-| `ImageJ-Prosth-CN-*-setup.msi` | **安装包**：写入系统，创建开始菜单与卸载项 |
+
+> **安装包（MSI）**：Windows 上 `jpackage --type msi` 依赖 [WiX Toolset](https://wixtoolset.org/)，需先在构建机安装。命令见下方「构建」章节。
 
 ---
 
